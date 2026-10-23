@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ZEED NET  MANAGER",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ZEED",
+  "start_url": "/",
+  "theme_color": "#101713"
+}
